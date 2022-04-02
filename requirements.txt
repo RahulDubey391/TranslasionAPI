@@ -1,0 +1,7 @@
+google-cloud
+google-cloud-aiplatform
+google-cloud-automl
+google-cloud-vision
+google-cloud-storage
+google-cloud-pubsub
+google-cloud-translate==2.0.1
